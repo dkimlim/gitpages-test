@@ -2,9 +2,9 @@ let pageNumber = 0;
 
 const pages = [
   { copy: "building things in React, Node, Javascript, HTML, CSS", background: "red", circle: "blue" },
+  { copy: "currently updating her portfolio", background: "blue", circle: "orange"  },
   { copy: "probably hungry and eating ramen", background: "black", circle: "red"  },
-  { copy: "drinking a cappucino", background: "blue", circle: "orange"  },
-  { copy: "learning about UX", background: "purple", circle: "yellow"  },
+  { copy: "thinking of <a href = 'https://twitter.com/dianekimlim'>a tweet to add</a>", background: "purple", circle: "yellow"  },
   { copy: "checking her <a href = 'https://www.linkedin.com/in/diane-kim-lim-5b9a8440/'>Linkedin profile</a>", background: "yellow", circle: "green"  }
 ]
 
